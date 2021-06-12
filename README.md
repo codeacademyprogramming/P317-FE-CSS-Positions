@@ -11,4 +11,5 @@
 
 ### Task
 * Your task is to create google register component panel in the video below. Your implementation should be exactly the same
-https://user-images.githubusercontent.com/57169563/121770432-50624c00-cb7a-11eb-9428-5cce3a730d61.mov
+
+https://user-images.githubusercontent.com/57169563/121770553-f7df7e80-cb7a-11eb-9a60-36cde92c4198.mp4 <br>
